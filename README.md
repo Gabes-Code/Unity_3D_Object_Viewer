@@ -10,3 +10,4 @@ Simple lighting toggle (3 light presets).
 Swap between multiple models (from a list or folder).
 
 Clean UI: Model name display, lighting buttons, reset view.
+
